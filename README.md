@@ -1,4 +1,8 @@
-# Atividades da cadeira estrutura de dados :game_die:
+# Estruturas de dados feitas em C:game_die:
 
-- **quando eu tiver coragem eu descrevo todas as estruturas**
+- Árvores
+- Filas (Encadeamento simples e duplo)
+- Listas (Encadeamento simples e duplo)
+- Pilhas
 
+**OBS**: Por serem códigos antigos, alguns podem estar sem comentários
