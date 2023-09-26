@@ -5,4 +5,4 @@
 - Listas (Encadeamento simples e duplo)
 - Pilhas
 
-**OBS**: Por serem códigos antigos, alguns podem estar sem comentários, mas irei corrigir assim que possível.
+**OBS**: Por serem códigos antigos, alguns podem estar sem comentários.
